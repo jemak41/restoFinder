@@ -1,0 +1,7 @@
+
+search_items = ['search_items', 'search_items']
+key = 'key'
+secret = 'secret'
+number = 'your number'
+
+#key and secret can be found in your nexmo dashboard
